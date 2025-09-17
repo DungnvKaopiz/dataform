@@ -1,0 +1,6 @@
+config {
+    type: "table"
+}
+
+  -- Gọi hàm từ file macros.js và truyền tên bảng nguồn vào
+  ${require("../includes/macros.js").create_staging_table("polar-city-335710.KPZ186.products")}
