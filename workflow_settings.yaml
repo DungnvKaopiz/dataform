@@ -1,4 +1,5 @@
-defaultProject: polar-city-335710
-defaultDataset: dataform
-defaultAssertionDataset: dataform_assertions
+defaultProject: cm-da-bs-yamahamotor
+defaultDataset: KPZ194-terraform
+defaultAssertionDataset: KPZ194-terraform-assertions
 dataformCoreVersion: 3.0.26
+defaultLocation: us-central1
